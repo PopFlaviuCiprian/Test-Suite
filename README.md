@@ -4,7 +4,4 @@
 - pip install unittest-xml-reporting.
 - pip install html-testRunner
 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=m-fomSS2wss
-" target="_blank"><img src="http://img.youtube.com/vi/m-fomSS2wss/0.jpg" 
-alt="SuiteTest" width="240" height="180" border="10" /></a>
+[![](https://markdown-videos.deta.dev/youtube/m-fomSS2wss)](https://youtu.be/m-fomSS2wss)
